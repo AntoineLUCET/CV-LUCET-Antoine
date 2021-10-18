@@ -58,3 +58,5 @@ Niveau scolaire de terminale
 
 • Sport : 
 Trottinette Freestyle, Trampoline, Parkour, Badminton
+
+![texte alternatif](BG.png)
