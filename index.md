@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## **LUCET Antoine**
 
-You can use the [editor on GitHub](https://github.com/AntoineLUCET/CV-LUCET-Antoine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Adresse** : 110 Rue Saint-Hubert, 76750 Morgny-la-Pommeraye
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Téléphone** : 07 82 55 73 40
 
-### Markdown
+**Mail** : Antoine.l283@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Site** : Ant-One.bygreg.fr
 
-```markdown
-Syntax highlighted code block
+**Né le** : 02/08/2003
 
-# Header 1
-## Header 2
-### Header 3
+## **Formation** :
 
-- Bulleted
-- List
+2018/2021 Lycée Pierre Corneille (Rouen)
 
-1. Numbered
-2. List
+• Section audiovisuelle
 
-**Bold** and _Italic_ and `Code` text
+• Spécialités : Audiovisuelle, Sciences Physiques, Sciences de
+l’informatique et du Numérique (NSI)
 
-[Link](url) and ![Image](src)
-```
+2014 – 2018 : Collège Saint-Victrice (Bihorel)
+• Brevet des Collèges mention bien
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2009 – 2014 : Ecole primaire George Sand (Isneauville)
 
-### Jekyll Themes
+## **Compétence** :
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AntoineLUCET/CV-LUCET-Antoine/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+OS : Microsoft Windows 7,8.1,10
 
-### Support or Contact
+• Adobe
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+▪ Première Pro
+
+▪ After Effect
+
+▪ Photoshop
+
+▪ Media encoder
+
+• Modélisation : Cinema 4D, Sketchup
+
+• Autres : Réseaux sociaux, Word Press
+
+## **Langue** :
+
+• Anglais :
+Niveau scolaire de terminale
+
+• Espagnol :
+Niveau scolaire de terminale
+
+## **Centres d’intérêt** :
+
+• Cinéma : Tout genre
+
+• Membre de l’association Archimède Films (Bihorel)
+
+• Sport :
+Trottinette Freestyle, Trampoline, Parkour, Badminton
