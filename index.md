@@ -56,5 +56,5 @@ Niveau scolaire de terminale
 
 • Membre de l’association Archimède Films (Bihorel)
 
-• Sport :
+• Sport : 
 Trottinette Freestyle, Trampoline, Parkour, Badminton
